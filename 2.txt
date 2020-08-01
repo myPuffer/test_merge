@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-client 2
-=======
 client 1 edit 
->>>>>>> 6e8d3d35eed8c1f27dcaf0ea52248df904bd7fc7
