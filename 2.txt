@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 CLIENT 1 edit 
+=======
+client 1 edit 
+>>>>>>> 052cea7
